@@ -82,7 +82,14 @@ hr {margin-top: 4rem;
        height: auto;}
 
 
+.fw {gap: 25px;
+   display:  flex;
+   flex-wrap: wrap;
+   list-style: none;
+   margin-left: 300px;
+}
 .fw img {width: 14%;margin-left: 400px;}
+
 .projects img {width: 50%;}
 
 
